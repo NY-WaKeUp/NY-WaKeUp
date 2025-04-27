@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: phil_ning@mail.dlut.edu.cn
-- 🌱 I’m currently learning Go, Java
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NY-WaKeUp&theme=rose_pine)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NY-WaKeUp&theme=rose_pine&show_owner=false)
+
+
+📫 How to reach me: phil_ning@mail.dlut.edu.cn
+
+🌱 I’m currently learning Go, Java
