@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NY-WaKeUp&theme=rose_pine&hide_title=true&hide_rank=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NY-WaKeUp&theme=rose_pine)
 
 
-📫 How to reach me: !(reachme)(phil_ning@mail.dlut.edu.cn)
+📫 How to reach me: [reachme](phil_ning@mail.dlut.edu.cn)
 
 🌱 I’m currently learning Go, Java
