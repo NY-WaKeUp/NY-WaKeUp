@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 📫 How to reach me: [reachme](phil_ning@mail.dlut.edu.cn)
 
-🌱 I’m currently learning Go, Java
+🌱 I’m currently learning Java
